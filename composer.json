@@ -1,5 +1,5 @@
 {
-    "name": "noel-davies/traffic-live",
+    "name": "NoelDavies/TrafficLive",
     "description": "A interface with dealing with Sonhar's TrafficLive API",
     "keywords":["trafficlive", "api"],
     "license": "MIT",
