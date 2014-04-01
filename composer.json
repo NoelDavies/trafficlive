@@ -23,8 +23,8 @@
             "src/migrations"
         ],
         "psr-0": {
-            "TrafficLive": "src/"
+            "NoelDavies\\TrafficLive": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
