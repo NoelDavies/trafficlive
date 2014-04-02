@@ -141,8 +141,6 @@ Class Client {
 	{
 		return \Cache::remember( $request->getUrl(), 60, function() use ($request)
 		{
-			\Debugbar::warning( 'HTTP Request sent to: ' . $request->getUrl());
-
 			// Send the request and store the response
 			try
 			{
